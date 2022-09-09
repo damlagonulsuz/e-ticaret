@@ -1,0 +1,43 @@
+.basket-container {
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+}
+
+.basket-container h3 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.total {
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+    margin-top: 10px;
+    font-size: 18px;
+    text-align: right;
+    font-weight: bold;
+    color: darkorchid;
+}
+
+.basket-item {
+    padding-bottom: 10px;
+    font-size: 15px;
+}
+
+.basket-item span {
+    color: #999;
+}
+
+.basket-reset {
+    background: rgb(235, 209, 235);
+    height: 40px;
+    border-radius: 4px;
+    width: 100px;
+    cursor: pointer;
+    
+}
+
+.basket-reset:hover {
+    background-color: rgb(245, 158, 204);
+}

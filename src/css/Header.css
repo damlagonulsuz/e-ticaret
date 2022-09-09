@@ -1,0 +1,18 @@
+.header {
+    background: linear-gradient(to bottom, purple, pink);
+    height: 3.75rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+    position: sticky;
+    top: 0;
+    
+}
+
+span {
+    margin: 0 10px;
+    font-weight: bold;
+}
